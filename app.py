@@ -37,8 +37,7 @@ def main():
             "1. Exploratory / Baseline",
             "2. Web Mining Enrichment",
             "3. Neural Network Benchmarking",
-            "4. Association Rules",
-            "5. Comparative Conclusions"
+            "4. Association Rules"
         ],
         key="main_module"
     )
